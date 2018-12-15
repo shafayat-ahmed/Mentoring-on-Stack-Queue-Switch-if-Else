@@ -8,19 +8,19 @@ public class StringSwtichExample {
 		month.toLowerCase();
 		
 		switch(month) {
-		case "January":
+		case "january":
 			System.out.println("1");
 			break;
-		case "February":
+		case "february":
 			System.out.println("2");
 			break;
-		case "March":
+		case "march":
 			System.out.println("3");
 			break;
-		case "April":
+		case "april":
 			System.out.println("4");
 			break;
-		case "May":
+		case "may":
 			System.out.println("5");
 			break;
 		case "June":
